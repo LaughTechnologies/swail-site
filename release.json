@@ -1,0 +1,10 @@
+{
+  "ios": {
+    "preview": { "latestBuild": 0, "minimumVersion": "0.0.0" },
+    "production": { "latestBuild": 0, "minimumVersion": "0.0.0" }
+  },
+  "android": {
+    "preview": { "latestBuild": 0, "minimumVersion": "0.0.0" },
+    "production": { "latestBuild": 0, "minimumVersion": "0.0.0" }
+  }
+}
