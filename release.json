@@ -1,9 +1,9 @@
 {
   "ios": {
     "preview": {
-      "latestBuild": 4,
+      "latestBuild": 5,
       "minimumVersion": "0.0.0",
-      "latestVersion": "0.8.0",
+      "latestVersion": "0.10.0",
       "url": "itms-beta://beta.itunes.apple.com/v1/app/6826698002"
     },
     "production": {
